@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Behat">
+    <behat_settings>
+      <BehatSettings />
+    </behat_settings>
+  </component>
+  <component name="BladeInjectionConfiguration" escapedTextEnd="!!}" escapedTextStart="{!!" />
+  <component name="ComposerSettings" phpInterpreterId="b40cc5d3-87fe-48f0-9d03-8a38a0fa1e92" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+</project>
